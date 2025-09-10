@@ -37,7 +37,7 @@
  <hr>
   <article><h2> Francisco is a great walking city but it is a bit of a chalange walking west to east since that takes you through the hills.
     <br> It's famously referred to as 7x7 because the city is 7 miles wide by 7 miles tall.</h2> </article>
-    <h2> notable locations to visit.</h2>
+    <h2> Notable locations to visit.</h2>
 
     <ul>
       <li><a href="https://www.fishermanswharf.org/"><h3>Fisherman's Wharf</h3></a></li>
