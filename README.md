@@ -18,19 +18,19 @@
 
   <div class="row"></div>
   <div class="column">
-    <img src="imgs/goldenGate.jpeg" alt="golden gate bridge" style="width:20%">
+    <img src="imgs/goldenGate.jpeg" alt="golden gate bridge" style="width:100%">
   </div>
   <b>Golden Gate Bridge</b>
   <div><i>Taken with iPhone 15</i></div>
   <hr>
   <div class="column">
-    <img src="imgs/japaneseHouse.jpeg" alt="japanese House" style="width:20%">
+    <img src="imgs/japaneseHouse.jpeg" alt="japanese House" style="width:100%">
   </div>
   <b>A Pagoda at the Japanese Tea Garden</b>
    <div><i>Taken with iPhone 15</i></div>
   <hr>
   <div class="column">
-    <img src="imgs/palaceoffinearts.jpeg" alt="the palace of fine arts" style="width: 20%">
+    <img src="imgs/palaceoffinearts.jpeg" alt="the palace of fine arts" style="width: 100%">
   </div>
   <b>The Palace of Fine Arts</b>
   <div><i>Taken with iPhone 15</i></div>
